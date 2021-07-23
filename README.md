@@ -5,7 +5,7 @@ On the 31st of December, at 11 p.m. GMT, the United Kingdom (UK) completed its s
 
 <br>
 
-As the need for mass-inoculation by countries gathers pace, this notebook looks at how the **UK is faring against other countries in the EU**. I have summarised the visualisations in a PowerPoint presentation, which you can find in this repository.
+As the need for mass-inoculation by countries gathers pace, this notebook looks at how the **UK is faring against other countries in the EU**. I have summarised the visualisations in a PowerPoint presentation, which you can find [in this repository](https://github.com/KOrfanakis/COVID-19_Vaccinations-UK_vs_EU/blob/main/Summary.pptx).
 
 <br>
 
@@ -25,10 +25,10 @@ Apart from comparing the absolute numbers, we also need to factor in the populat
 ## How to View
 
 Since the notebook is rendered as a static HTML file in the repository, its interactive features (Plotly plots) will not be displayed. 
-To view the notebook with interactive content, you can use [nbviewer](), [Kaggle](https://www.kaggle.com/korfanakis/covid-19-vaccination-progress-uk-eu-comparison) or run it locally.
+To view the notebook with interactive content, you can use [nbviewer](https://nbviewer.jupyter.org/github/KOrfanakis/COVID-19_Vaccinations-UK_vs_EU/blob/8cd7c69806e31ebc20b6a81885072b4f06351153/COVID-19-UK_vs_EU_Comparison.ipynb), [Kaggle](https://www.kaggle.com/korfanakis/covid-19-vaccination-progress-uk-eu-comparison) or run it locally.
 
-**Note**: Interactive maps can not be displayed with the nbviewer. Consequently, maps will be displayed as static images using the `svg` renderer. 
-To access the interactive version, please visit the notebook on [Kaggle]() or run the notebook locally after removing the `svg` rendered from the `fig.show()` command.
+**Note**: Interactive maps cannot be displayed with the nbviewer. Consequently, maps will be displayed as static images using the `svg` renderer. 
+To access the interactive version, please visit the notebook on [Kaggle](https://www.kaggle.com/korfanakis/covid-19-vaccination-progress-uk-eu-comparison) or run the notebook locally after removing the `svg` rendered from the `fig.show()` command.
 
 <br>
 
