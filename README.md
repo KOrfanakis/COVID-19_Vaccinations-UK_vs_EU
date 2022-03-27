@@ -52,7 +52,7 @@ This notebook focuses on only the [27 current member states of the EU](https://e
 - The number of people fully vaccinated (2nd dose), and
 - The daily number of new vaccinations.
 
-Apart from comparing the absolute numbers, we also need to factor in the population of each country. Therefore, each of the above features will be normalised per hundred people (for the first three features) or million people (for the daily number of vaccinations). Our analysis will also factor in parameters such as GDP per capita. Lastly, we will visualise how vaccinations progressed since the day of the first vaccination instead of actual dates (Year-Month-Day) because immunisations started at different dates for different countries. The current analysis covers the vaccination process up to the **5th of July 2021**.
+Apart from comparing the absolute numbers, we also need to factor in the population of each country. Therefore, each of the above features will be normalised per hundred people (for the first three features) or million people (for the daily number of vaccinations). Our analysis will also factor in parameters such as GDP per capita. Lastly, we will visualise how vaccinations progressed since the day of the first vaccination instead of actual dates (Year-Month-Day) because immunisations started at different dates for different countries. The current analysis covers the vaccination progress up to the **5th of July 2021**.
 
 <br>
 
